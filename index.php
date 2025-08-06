@@ -41,6 +41,7 @@ box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
 <!-- Contact List -->
 <div id="contactList" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4"></div>
 </div>
-<script src="assets/addressbook.js"></script>
+<!--script src="assets/addressbook.js"></script-->
+<script src="addressbook.js"></script>
 </body>
 </html>
